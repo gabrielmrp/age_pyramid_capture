@@ -1,0 +1,12 @@
+{
+"legend":["70+","65 a 69","60 a 64","55 a 59","50 a 54","45 a 49","40 a 44","35 a 39","30 a 34","25 a 29"],
+"points" :
+{
+"left": [778, 654, 735, 699, 658, 619, 551, 551, 531, 561, 727, 620],
+"right": [772, 795, 787, 812, 886, 984, 1060, 1094, 1186, 1186, 888, 955]
+},
+"url": "https://www.arca.fiocruz.br/bitstream/icict/16458/2/CensoDemografico.pdf",
+"page":19,
+"calibration_point":5,
+"names_ordered":["male","female"]
+}
